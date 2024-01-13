@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T14:02:47 IST" name="Suite" finished-at="2024-01-11T14:03:45 IST" duration-ms="58122">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T14:02:47 IST" name="Test" finished-at="2024-01-11T14:03:45 IST" duration-ms="58122">
+      <class name="salesforce1.testing">
+        <test-method is-config="true" signature="code1()[pri:0, instance:salesforce1.testing@52a70627]" started-at="2024-01-11T14:02:47 IST" name="code1" finished-at="2024-01-11T14:02:53 IST" duration-ms="5782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- code1 -->
+        <test-method signature="login()[pri:1, instance:salesforce1.testing@52a70627]" started-at="2024-01-11T14:02:53 IST" name="login" finished-at="2024-01-11T14:02:56 IST" duration-ms="3670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="home()[pri:2, instance:salesforce1.testing@52a70627]" started-at="2024-01-11T14:02:57 IST" name="home" finished-at="2024-01-11T14:03:37 IST" duration-ms="40426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method signature="accout()[pri:3, instance:salesforce1.testing@52a70627]" started-at="2024-01-11T14:03:37 IST" name="accout" finished-at="2024-01-11T14:03:45 IST" duration-ms="7580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accout -->
+        <test-method is-config="true" signature="at1()[pri:0, instance:salesforce1.testing@52a70627]" started-at="2024-01-11T14:03:45 IST" name="at1" finished-at="2024-01-11T14:03:45 IST" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at1 -->
+      </class> <!-- salesforce1.testing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
